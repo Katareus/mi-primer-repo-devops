@@ -1,0 +1,1 @@
+breve descripción de la estructura del proyecto
